@@ -1,0 +1,25 @@
+Purpose
+=======
+
+Write the calendar widgets with PyQt.
+
+
+Requirements
+============
+
+ - PyQt4
+
+
+Goals
+=====
+
+ - Month widget (done)
+ - Selecting days on Month (90% done)
+ - Week widget
+ - day widget
+
+
+Test
+====
+
+ $ python main.py
